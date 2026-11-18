@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100" height="100" alt="nzsl-gesture-recognition-logo" src="https://github.com/user-attachments/assets/749884d8-ff11-4022-a8ff-ff8f701a8671" />
 
-# Tūtohu | Signify
+# Tūtohu | NZSL Gesture Recognition
 
 _Speak it, sign it, learn it. NZSL translation and practice that never leaves your device._
 
